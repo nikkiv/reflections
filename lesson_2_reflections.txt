@@ -1,0 +1,2 @@
+what happens when you initialize a repository? Why do you need to do it?
+To start tracking the commits and collect the metadata.
